@@ -69,7 +69,7 @@ html {
 .logo-text {
     font-size: 28px;
     font-weight: 700;
-    background: linear-gradient(135deg, #FF6B6B, #7FFFD4);
+    background: linear-gradient(135deg, #f8f8f8, #000000);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -103,7 +103,7 @@ html {
 }
 
 .nav-menu a:hover {
-    color: #FF6B6B;
+    color: #000000;
     background: rgba(255, 107, 107, 0.1);
 }
 
@@ -125,7 +125,7 @@ html {
 }
 
 .hamburger:hover {
-    background: rgba(255, 107, 107, 0.1);
+    background: rgba(0, 0, 0, 0.1);
 }
 
 .hamburger span {
@@ -153,7 +153,7 @@ html {
 .hero {
 	margin-top: 80px;
     min-height: 100vh;
-    background: linear-gradient(135deg, #FF6B6B 0%, #FFAB91 50%, #7FFFD4 100%);
+    background: linear-gradient(135deg, #000000 0%, #000000 50%, #7FFFD4 100%);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -556,10 +556,10 @@ html {
 
 .progress-bar {
     height: 100%;
-    background: linear-gradient(90deg, #FF6B6B, #FFAB91, #7FFFD4);
+    background: linear-gradient(90deg, #000000, #18a05a, #fefefe);
     width: 0;
     animation: none;
-    box-shadow: 0 0 10px rgba(255, 107, 107, 0.5);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
 }
 
 .progress-bar.active {
@@ -596,7 +596,7 @@ html {
     font-size: 48px;
     font-weight: 700;
     margin-bottom: 20px;
-    background: linear-gradient(135deg, #FF6B6B, #FFAB91, #7FFFD4);
+    background: linear-gradient(135deg, #000000, #000000, #7FFFD4);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -662,7 +662,7 @@ html {
     top: 0;
     width: 4px;
     height: 100%;
-    background: linear-gradient(135deg, #FF6B6B, #7FFFD4);
+    background: linear-gradient(135deg, #000000, #fdfefe);
     transform: scaleY(0);
     transition: transform 0.3s ease;
 }
@@ -694,7 +694,7 @@ html {
 .service-tab h3 {
     font-size: 20px;
     margin-bottom: 8px;
-    color: #FF6B6B;
+    color: #000000;
     font-weight: 600;
 }
 
@@ -753,7 +753,7 @@ html {
 .service-content-icon {
     width: 80px;
     height: 80px;
-    background: linear-gradient(135deg, #FF6B6B, #FF8A65);
+    background: linear-gradient(135deg, #070707, #ffffff);
     border-radius: 20px;
     display: flex;
     align-items: center;
@@ -767,7 +767,7 @@ html {
 .service-content h2 {
     font-size: 36px;
     margin-bottom: 20px;
-    color: #FF6B6B;
+    color: #000000;
     font-weight: 700;
 }
 
@@ -822,7 +822,7 @@ html {
 }
 
 .about .section-title {
-    background: linear-gradient(135deg, #7FFFD4, #FFAB91, #FF6B6B);
+    background: linear-gradient(135deg, #000000, #7e7e7e, #43c088);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -984,12 +984,12 @@ html {
     left: 0;
     right: 0;
     height: 2px;
-    background: linear-gradient(90deg, #FF6B6B, #FFAB91, #7FFFD4);
+    background: linear-gradient(90deg, #0f0e0e, #21ca48, #ffffff);
 }
 
 .stat-futuristic h4 {
     font-size: 32px;
-    background: linear-gradient(135deg, #FFAB91, #7FFFD4);
+    background: linear-gradient(135deg, #000000, #ffffff);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -1053,7 +1053,7 @@ html {
 .form-group input:focus,
 .form-group textarea:focus {
     outline: none;
-    border-color: #FF6B6B;
+    border-color: #000000;
     box-shadow: 0 0 0 3px rgba(255, 107, 107, 0.1);
     background: white;
 }
@@ -1067,7 +1067,7 @@ html {
 }
 
 .submit-btn {
-    background: linear-gradient(135deg, #FF6B6B, #FF8A65);
+    background: linear-gradient(135deg, #000000, #c8c4c2);
     color: white;
     padding: 18px 40px;
     border: none;
@@ -1125,7 +1125,7 @@ html {
 .contact-icon {
     width: 60px;
     height: 60px;
-    background: linear-gradient(135deg, #FF6B6B, #FF8A65);
+    background: linear-gradient(135deg, #000000, #ffffff);
     border-radius: 15px;
     display: flex;
     align-items: center;
@@ -1278,7 +1278,7 @@ html {
 }
 
 .footer-link:hover {
-    color: #7FFFD4;
+    color: #000000;
     padding-left: 10px;
 }
 
@@ -1319,13 +1319,13 @@ html {
 }
 
 .footer-credits a {
-    color: #FF6B6B;
+    color: #000000;
     text-decoration: none;
     transition: all 0.3s ease;
 }
 
 .footer-credits a:hover {
-    color: #7FFFD4;
+    color: #000000;
     text-decoration: underline;
 }
 
