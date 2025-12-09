@@ -28,7 +28,7 @@ class VerticalCubeSlider {
             {
                 url: 'images/img2.jpg',
                 thumb: 'images/img2.jpg',
-                title: 'Capoeira in the Park',
+                title: 'Capoeira Graduation',
                 description: 'Our goal is to bring capoeira to everyone, in every place, creating a space where people can move, connect, and improve their well-being through this beautiful Brazilian art.'
             },
             {
