@@ -20,8 +20,8 @@ class VerticalCubeSlider {
         
         this.images = [
             {
-                url: 'images/img1.png',
-                thumb: 'images/img1.png',
+                url: 'images/img1.jpeg',
+                thumb: 'images/img1.jpeg',
                 title: 'Capoeira Training Center',
                 description: 'Capoeira is a Brazilian martial art that combines movement, rhythm, and cultural expression. It blends elements of fight, dance, music, and acrobatics, creating a unique form of art and physical practice.'
             },
